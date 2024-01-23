@@ -1,1 +1,1 @@
-echo you are pwned, Ha ha ha
+Write-Host "you are pwned, Ha ha ha"
